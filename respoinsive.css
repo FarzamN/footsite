@@ -1,0 +1,241 @@
+@media screen and (max-width:450px) {
+   
+ .header {
+        height: 46vh;
+      }
+.header .fresh{
+    font-size: 27px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.header .big {
+    color: rgb(65, 64, 64);
+    font-size: 27px;
+    margin-left: 20px;
+    padding-top: 0px;
+    line-height: 25px;
+}
+.header .signup {
+   font-size: 15px;
+    margin-left: 20px;
+    line-height: 30px;
+ }
+ .header input{
+     display: none;
+ }
+ .header button{
+    display: none;
+}
+.row-of-heading {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.arrow {
+    float: right;
+    color: rgb(97, 95, 95);
+    font-size: 19px;
+    margin-top: 8px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  .items-of-rows {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100px;
+    margin-top: 10px;
+  }
+  .items-of-rows img {
+    width: 37px;
+    height: 37px;
+  }
+  .row-of-heading h2{
+    font-size: 22px;
+    padding-left: 10px;
+  }
+  .row-of-heading a {
+   display: none;
+  }
+  .row-of-heading a:hover {
+    color: #3bb77e;
+    font-size: 10px;
+  }
+  .items-of-rows {
+    height: 90px;
+    margin-top: 3px;
+  }
+  .items-of-rows .first {
+    font-size: 8px;
+  }
+  .items-of-rows .secound {
+    font-size: 7px;
+    line-height: 10px;
+  }
+.items-of-rows .one {
+    padding-top: 10px;
+  }
+  .items-of-rows .two {
+    width: 15.33%;
+    padding-top: 10px;
+  }
+  .items-of-rows .three {
+    padding-top: 10px;
+  }
+  .items-of-rows .four {
+    padding-top: 10px;
+  }
+  .items-of-rows .five {
+    padding-top: 10px;
+  }
+  .items-of-rows .six {
+    padding-top: 10px;
+  }
+  .items-of-rows .seven {
+    padding-top: 10px;
+  }
+  .items-of-rows .eight {
+    padding-top: 10px;
+  }
+  .items-of-rows .nine {
+      display: none;
+    padding-top: 10px;
+  }
+  .items-of-rows .ten {
+      display: none;
+    padding-top: 10px;
+  }
+.banner{
+    margin-top: 20px;
+}
+.banner-1{
+    background-image: url("images/banner-1.png");
+    margin-left: 17px;
+   border: 1px solid black;
+   width: 45%;
+   height: 53vh;
+}
+.banner .banner-1 .th-one{
+    line-height: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+.banner .banner-1 button{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 82px;
+    height: 18px;
+}
+.banner-2{
+    margin-left: 17px;
+   border: 1px solid black;
+   width: 45%;
+   height: 53vh;
+}
+.banner .banner-2 .th-two{
+    line-height: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+.banner .banner-2 button{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 82px;
+    height: 18px;
+}
+
+.veg{
+   display: none;
+}
+.banner-3{display: none;
+}
+.banner .banner-3 .th-three{display: none;}
+.banner .banner-3 button{display: none;}
+.third-heading{
+    margin-top: 20px;
+}
+.third-heading h2{
+    margin-left: 18px;
+    font-size: 25px;
+    }
+    .third-heading a{
+display: none;
+    }
+    .third-line-of-work img{
+        padding-left: 40px;
+         width: 157px;
+         height: 118px;
+       }
+       .product-one {
+        margin-top: 18px;
+      }
+      .product-two {
+        margin-top: 18px;
+      }
+      .product-three {
+        margin-top: 18px;
+      }
+      .product-five {
+        margin-top: 18px;
+      }
+       .product-one{
+        width: 45%;
+        margin-left: 10px;
+        border: 1px solid rgb(167, 164, 164);
+        border-radius: 8px;
+      }
+      .product-two{
+        width: 45%;
+        margin-left: 10px;
+        border: 1px solid rgb(167, 164, 164);
+        border-radius: 8px;
+      }
+      .product-three{
+          display: none;
+        width: 23%;
+        margin-left: 10px;
+        border: 1px solid rgb(167, 164, 164);
+        border-radius: 8px;
+      }
+      .product-four{
+      display: none;
+      }
+      .product-five{
+          display: none;
+        width: 23%;
+        margin-left: 10px;
+        border: 1px solid rgb(167, 164, 164);
+        border-radius: 8px;
+      }
+      .pr-1{
+        padding-left: 10px;
+color: rgb(153, 150, 150);
+font-size: 17px;
+padding-bottom: 6px;
+      }
+      .pr-2 {
+        padding-left: 9px;
+        font-size: 20px;
+        line-height: 17px;
+      }
+      .pr-3{
+        font-size: 18px;
+padding-left: 11px;
+line-height: 25px;
+      }
+      .pr-4{
+        font-size: 18px;}
+      .pr-5{
+        padding-left: 66px;
+        color: #3bb77e;
+        font-size: 19px;
+      }
+      .forth-line-of-work img{
+        padding-left: 40px;
+         width: 157px;
+         height: 118px;
+      }
+      .footer{display: none;
+      }
+}

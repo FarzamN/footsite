@@ -1,0 +1,142 @@
+@media screen and (max-width:244px) {
+    .header {
+        height: 35vh;
+      }
+.header .fresh{
+    font-size: 20px;
+}
+.header .big {
+    font-size: 20px;
+   }
+   .header .signup {
+    font-size: 10px;
+     margin-left: 20px;
+     line-height: 30px;
+  }
+  .row-of-heading {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.arrow { 
+    font-size: 15px;
+ }
+ .row-of-heading h2{
+    font-size: 18px;
+    padding-left: 10px;
+  }
+  items-of-rows .one {
+    padding-top: 10px;
+    width: 15.33%;
+  }
+  .items-of-rows .two {
+    width: 15.33%;
+    padding-top: 10px;
+  }
+  .items-of-rows .three {
+    width: 15.33%;
+    padding-top: 10px;
+  }
+  .items-of-rows .four {
+    width: 15.33%;
+    padding-top: 10px;
+  }
+  .items-of-rows .five {
+    width: 15.33%;
+    padding-top: 10px;
+  }
+  .items-of-rows .six {
+    width: 15.33%;
+    padding-top: 10px;
+  }
+  .items-of-rows .seven {
+    width: 15.33%;
+    padding-top: 10px;
+  }
+  .items-of-rows .eight {
+      width: 15.33%;
+    padding-top: 10px;
+  }
+  .banner-1{
+    background-image: url("images/banner-1.png");
+    margin-left: 17px;
+   border: 1px solid black;
+   width: 45%;
+   height: 26vh;
+}
+.banner .banner-1 .th-one {
+    line-height: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 11px;
+}
+.banner-2{  
+    margin-left: 17px;
+    border: 1px solid black;
+    width: 45%;
+    height: 26vh;
+}
+.banner .banner-2 .th-two{
+    line-height: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 11px;
+}
+.banner .banner-1 button {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 59px;
+    height: 13px;
+    font-size: 9px;
+}
+.banner .banner-2 button {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 59px;
+    height: 13px;
+    font-size: 9px;
+}
+.third-heading h2{
+    font-size: 18px;
+padding-left: 10px;
+}
+.product-one {
+    width: 45%;
+    margin-left: 10px;
+    border: 1px solid rgb(167, 164, 164);
+    border-radius: 8px;
+}
+.pr-1 {
+    padding-left: 10px;
+    color: rgb(153, 150, 150);
+    font-size: 14px;
+    padding-bottom: 6px;
+}
+.pr-2 {
+    padding-left: 9px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.pr-3 {
+    font-size: 16px;
+    padding-left: 11px;
+    line-height: 25px;
+}
+.pr-4 {
+    font-size: 16px;
+}
+.pr-5 {
+    padding-left: 32px;
+    color: #3bb77e;
+    font-size: 19px;
+}
+.third-line-of-work img {
+    padding-left: 3px;
+    width: 102px;
+    height: 90px;
+}
+.forth-line-of-work img {
+    padding-left: 3px;
+    width: 102px;
+    height: 90px;
+}
+}
